@@ -36,7 +36,7 @@
  ********************************************************************************/
 
 
-require_once('include/entryPoint.php');
+ require_once('include/entryPoint.php');
 require_once('include/utils/file_utils.php');
 ob_start();
 
