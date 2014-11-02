@@ -1,0 +1,10 @@
+<?php
+unset($layout_defs['Calls']['subpanel_setup']['accounts']);
+unset($layout_defs['Calls']['subpanel_setup']['users']);
+unset($layout_defs['Calls']['subpanel_setup']['project']);
+unset($layout_defs['Calls']['subpanel_setup']['history']);
+unset($layout_defs['Calls']['subpanel_setup']['documents']);
+unset($layout_defs['Calls']['subpanel_setup']['contacts']);
+unset($layout_defs['Calls']['subpanel_setup']['opportunities']);
+unset($layout_defs['Calls']['subpanel_setup']['leads']);
+?>
