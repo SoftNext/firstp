@@ -20,6 +20,7 @@
 /silentUpgrade*.php
 # Logs files can safely be ignored.
 *.log
+*.project
 # Ignore the new upload directories.
 /upload/
 /upload_backup/
