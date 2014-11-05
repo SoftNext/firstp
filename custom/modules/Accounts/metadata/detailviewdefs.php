@@ -64,6 +64,15 @@ array (
         array (
           0 => 
           array (
+            'name' => 'memberid_c',
+            'label' => 'LBL_ MEMBERID',
+          ),
+          1 => '',
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
             'name' => 'name',
             'comment' => 'Name of the Company',
             'label' => 'LBL_NAME',
@@ -78,7 +87,7 @@ array (
             'label' => 'LBL_PHONE_OFFICE',
           ),
         ),
-        1 => 
+        2 => 
         array (
           0 => 
           array (
@@ -97,7 +106,7 @@ array (
             'label' => 'LBL_FAX',
           ),
         ),
-        2 => 
+        3 => 
         array (
           0 => 
           array (
@@ -120,7 +129,7 @@ array (
             ),
           ),
         ),
-        3 => 
+        4 => 
         array (
           0 => 
           array (
@@ -129,7 +138,7 @@ array (
             'label' => 'LBL_EMAIL',
           ),
         ),
-        4 => 
+        5 => 
         array (
           0 => 
           array (
